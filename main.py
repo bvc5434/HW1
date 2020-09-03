@@ -6,7 +6,7 @@ if(Course1 == "A"):
 elif(Course1 == "A-"):
   Course_1 = 3.67
 elif(Course1 == "B+"):
-  Course_1 = 3.3
+  Course_1 = 3.33
 elif(Course1 == "B"):
   Course_1 = 3.0
 elif(Course1 == "B-"):
@@ -29,7 +29,7 @@ if(Course2 == "A"):
 elif(Course2 == "A-"):
   Course_2 = 3.67
 elif(Course2 == "B+"):
-  Course_2 = 3.3
+  Course_2 = 3.33
 elif(Course2 == "B"):
   Course_2 = 3.0
 elif(Course2 == "B-"):
@@ -52,7 +52,7 @@ if(Course3 == "A"):
 elif(Course3 == "A-"):
   Course_3 = 3.67
 elif(Course3 == "B+"):
-  Course_3 = 3.3
+  Course_3 = 3.33
 elif(Course3 == "B"):
   Course_3 = 3.0
 elif(Course3 == "B-"):
